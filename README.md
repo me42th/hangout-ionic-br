@@ -44,7 +44,7 @@ Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Io
 **TOPICO**
 > Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Quem num gosta di mé, boa gentis num é. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Sapien in monti palavris qui num significa nadis i pareci latim.
 
-### PROXIMOS ENCONTROS
+### PRÓXIMOS ENCONTROS
 > Algum outro tema interessa a comunidade? Existem litros e mais litros de **HOAX** produzido pelos devs de outras tech, acho que seria interessante tocarmos nessas feridas. A participação de todos é crucial pra dar certo, por favor envie um **FEEDBACK**!
 
 
