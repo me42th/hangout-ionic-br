@@ -1,4 +1,4 @@
-# HANGOUT IONIC BR: OBSERVABLES & LAZYLOAD
+# HANGOUT IONIC BR: UI STATE & HTTP REQUEST USANDO OBSERVABLES 
 ![IONIC BR](https://img.shields.io/badge/IONIC%20BR-%F0%9F%93%B2-blue) ![DATA](https://img.shields.io/badge/DATA-28%2F09-green)
 ![CUSTO](https://img.shields.io/badge/0800-GRATIS-red)
 [![MATEUS](https://img.shields.io/badge/LAZY-PRGM-yellowgreen)](https://github.com/mateusprgm) [![DAVID](https://img.shields.io/badge/RXJS-me42TH-orange)](https://github.com/me42th)
@@ -21,7 +21,8 @@
 >  Formado em Ciência da Computação pela Unifacs, Certificado pela Oracle como Programador Java, Atuou como Professor de Desenvolvimento Web no Senai, Integrante da Equipe Infocraft, Vice Campeão Baiano de Taekwondo e Atualmente Ionic Lover ngDEV. 
 
 **MATEUS PEREIRA**
-> Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
+> Formado em Análise e Desenvolvimento de Sistemas pelo UniProjeção, Atualmente Diretor de Desenvolvimento da Myzzy Tecnologia,
+Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular|S2|Ionic.
 
 ## OBSERVABLES
 > Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
@@ -46,4 +47,4 @@
 
 
 
-#### CURTIU? DETESTOU? [**ENVIE FEEDBACK:**](https://github.com/me42th/ionic-br/issues/new/choose) POR FAVOR!! NOS AJUDA MUITO...
+#### [**ENVIAR FEEDBACK**](https://github.com/me42th/ionic-br/issues/new/choose)
