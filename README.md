@@ -28,7 +28,7 @@ Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Io
 > Será apresentado o básico da programação reativa e como programar orientado a fluxos(streams) de dados assíncronos. Assíncrono significa que não se realiza ao mesmo tempo ou no mesmo ritmo de desenvolvimento (em relação a outra coisa). 
 
 **MANIFESTO REATIVO**
-> Discutiremos sobre este magnifico, incrível, inspirador, fantástico, fabuloso e todo e qualquer adjetivo que possa ser atribuido ao documento mais [magnifico, incrível, inspirador, fantástico, fabuloso e todo e qualquer adjetivo que possa ser atribuido ao documento mais](https://www.google.com/search?q=recurs%C3%A3o+significado&oq=recurs%C3%A3o&aqs=chrome.2.69i57j0l5.3728j0j7&sourceid=chrome&ie=UTF-8) hehe, just kidding
+> Discutiremos sobre este magnifico, incrível, inspirador, fantástico, fabuloso e todo e qualquer adjetivo que possa ser atribuido ao documento mais [magnifico, incrível, inspirador, fantástico, fabuloso e todo e qualquer adjetivo que possa ser atribuido ao documento mais](https://www.google.com/search?q=recurs%C3%A3o+significado&oq=recurs%C3%A3o&aqs=chrome.2.69i57j0l5.3728j0j7&sourceid=chrome&ie=UTF-8) hehe
 
 **TOPICO**
 > Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Quem num gosta di mé, boa gentis num é. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Sapien in monti palavris qui num significa nadis i pareci latim.
