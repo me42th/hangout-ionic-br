@@ -8,7 +8,7 @@
 
 **Código de Acesso:** 995-232-661 
 
-(**Enviar Feedback**)[https://github.com/me42th/ionic-br/issues/new/choose]
+[**Enviar Feedback**](https://github.com/me42th/ionic-br/issues/new/choose)
 
 ## AGENDA
 
