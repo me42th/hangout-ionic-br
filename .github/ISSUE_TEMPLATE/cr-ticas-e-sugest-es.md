@@ -2,7 +2,7 @@
 name: CRÍTICAS E SUGESTÕES
 about: CURTIU? DETESTOU? LARGA O DOCE!!
 title: ''
-labels: LIKE, UNLIKE
+labels: ''
 assignees: ''
 
 ---
