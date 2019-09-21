@@ -45,5 +45,6 @@
 > Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
 
 
+## CURTIU? DETESTOU?
 
 #### [**ENVIAR FEEDBACK**](https://github.com/me42th/ionic-br/issues/new/choose)
