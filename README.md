@@ -9,7 +9,6 @@
 **Código de Acesso:** 995-232-661 
 
 
-
 ## AGENDA
 
 1. **OBSERVABLES**
@@ -30,8 +29,8 @@ Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Io
 **MANIFESTO REATIVO**
 > Discutiremos sobre este magnifico, incrível, inspirador, fantástico, fabuloso e todo e qualquer adjetivo que possa ser atribuido ao documento mais [magnifico, incrível, inspirador, fantástico, fabuloso e todo e qualquer adjetivo que possa ser atribuido ao documento mais](https://www.google.com/search?q=recurs%C3%A3o+significado&oq=recurs%C3%A3o&aqs=chrome.2.69i57j0l5.3728j0j7&sourceid=chrome&ie=UTF-8)**...** hehe
 
-**TOPICO**
-> Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Quem num gosta di mé, boa gentis num é. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Sapien in monti palavris qui num significa nadis i pareci latim.
+**OBSERVABLES, OBSERVERS AND SUBSCRIPTION**
+> Neste tópico serão apresentados os métodos **next**, **error** e **complete** alem de brincar um pouco com os operadores **tap** e **take**. Será apresentada a doc **marbles** do **rxjs**.
 
 ## LAZY LOAD
 > Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
@@ -43,7 +42,7 @@ Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Io
 > Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Quem num gosta di mé, boa gentis num é. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Sapien in monti palavris qui num significa nadis i pareci latim.
 
 ### PROXIMOS ENCONTROS
-> Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
+> Algum outro tema interessa a comunidade? Existem litros e mais litros de **HOAX** produzido pelos devs de outras tech, acho que seria interessante tocarmos nessas feridas. A participação de todos é crucial pra dar certo, por favor envie um **FEEDBACK**!
 
 
 
