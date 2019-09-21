@@ -1,5 +1,5 @@
 # HANGOUT IONIC BR - OBSERVABLES & LAZYLOAD
-![IONIC BR](https://img.shields.io/badge/IONIC%20BR-%F0%9F%93%B2-blue) ![DATA](https://img.shields.io/badge/DATA-28%2F09-green) ![INICIO](https://img.shields.io/badge/INICIO-08:30-orange)![FIM](https://img.shields.io/badge/FIM-11:30-red) 
+![IONIC BR](https://img.shields.io/badge/IONIC%20BR-%F0%9F%93%B2-blue) ![DATA](https://img.shields.io/badge/DATA-28%2F09-green) ![INICIO](https://img.shields.io/badge/INICIO-08:30-orange) ![FIM](https://img.shields.io/badge/FIM-11:30-red)
 ![CUSTO](https://img.shields.io/badge/0800-GRATIS-blue)
 [![MATEUS](https://img.shields.io/badge/LAZY-PRGM-yellowgreen)](https://github.com/mateusprgm) [![DAVID](https://img.shields.io/badge/RXJS-me42TH-orange)](https://github.com/me42th)
 
