@@ -23,7 +23,7 @@
 Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Ionic.
 
 ### **OBSERVABLES**
-> Será apresentado o básico da programação reativa e como programar orientado a fluxos(streams) de dados assíncronos. Assíncrono significa que não se realiza ao mesmo tempo ou no mesmo ritmo de desenvolvimento (em relação a outra coisa). 
+> Será apresentado o básico da programação reativa e como programar orientado a fluxos(streams)
 
 **MANIFESTO REATIVO**
 > Discutiremos sobre este magnifico, incrível, inspirador, fantástico, fabuloso e todo e qualquer adjetivo que possa ser atribuido ao documento mais [magnifico, incrível, inspirador, fantástico, fabuloso e todo e qualquer adjetivo que possa ser atribuido ao documento mais](https://www.google.com/search?q=recurs%C3%A3o+significado&oq=recurs%C3%A3o&aqs=chrome.2.69i57j0l5.3728j0j7&sourceid=chrome&ie=UTF-8)**...** hehe
