@@ -15,10 +15,10 @@
 3. **PROXIMOS ENCONTROS**
 
 ### **FACILITADORES**
-- **DAVID METH**
+- [**DAVID METH**](https://www.linkedin.com/in/me42th)
 >  Formado em Ciência da Computação pela Unifacs, Certificado pela Oracle como Programador Java, Atuou como Professor de Desenvolvimento Web no Senai, Integrante da Equipe Infocraft, Vice Campeão Baiano de Taekwondo e Atualmente Ionic Lover ngDEV. 
 
-- **MATEUS PEREIRA**
+- [**MATEUS PEREIRA**](https://www.linkedin.com/in/mateus-pereira-061b91122)
 > Formado em Análise e Desenvolvimento de Sistemas pelo UniProjeção, Atualmente Diretor de Desenvolvimento da Myzzy Tecnologia,
 Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Ionic.
 
