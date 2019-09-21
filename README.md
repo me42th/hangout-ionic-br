@@ -32,6 +32,9 @@ Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Io
 **OBSERVABLES, OBSERVERS AND SUBSCRIPTION**
 > Neste tópico serão apresentados os métodos **next**, **error** e **complete** alem de brincar um pouco com os operadores **tap** e **take**. Será apresentada a doc **marbles** do **rxjs**.
 
+**BEHAVIOR SUBJECT**
+> Emitiremos sinais para as diferentes partes da aplicação após obter um retorno da response **http**, já preparou o adeus ao **promise**? hehe
+
 ## LAZY LOAD
 > Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
 
