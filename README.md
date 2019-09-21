@@ -35,10 +35,10 @@ Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Io
 > Emitiremos sinais para as diferentes partes da aplicação após obter um retorno da response **http**, já preparou o adeus ao **promise**? hehe
 
 ### **LAZY LOADING**
-> Será esclarecido a forma de trabalho do ionic, esclarecendo alguns dos boatos causadores do preconceito contra essa ferramente brilhante.
+> Será esclarecida a forma de trabalho do Ionic, esclarecendo alguns dos boatos causadores do preconceito contra essa ferramenta brilhante.
 
 **Modules**
-> Iremos conhecer a arquitetura do ionic no quesito módulos e componentes, tendo como foco a forma que ele trabalha o lazy loading no carregamento das páginas.
+> Iremos conhecer a arquitetura do Ionic no quesito módulos e componentes, tendo como foco a forma que ele trabalha o lazy loading no carregamento das páginas.
 
 **Services**
 > Neste tópico será abordado o carregamento sob demanda dos serviços no quesito de massa de dados e as requisições parametrizadas aliadas ao lazy loading.
