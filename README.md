@@ -5,7 +5,8 @@
 > Ingresse na reunião pelo seu computador, tablet ou smartphone. https://global.gotomeeting.com/join/995232661
 **Código de acesso:** 995-232-661 
 
+## PAUTA
 
-
-
-
+- OBSERVABLES
+- IONIC HATERS
+- PROXIMOS ENCONTROS
