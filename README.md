@@ -1,4 +1,4 @@
-## HANGOUT >> IONIC BR >> OBSERVABLES & LAZYLOAD
+## **HANGOUT >> IONIC BR >> OBSERVABLES & LAZYLOAD**
 ![IONIC BR](https://img.shields.io/badge/IONIC%20BR-%F0%9F%93%B2-blue) ![CUSTO](https://img.shields.io/badge/0800-GRATIS-red) ![DATA](https://img.shields.io/badge/DATA-28%2F09-green) ![INICIO](https://img.shields.io/badge/INICIO-08:30-orange) ![FIM](https://img.shields.io/badge/FIM-11:30-red)
 [![MATEUS](https://img.shields.io/badge/LAZY-PRGM-yellowgreen)](https://github.com/mateusprgm) [![DAVID](https://img.shields.io/badge/RXJS-me42TH-orange)](https://github.com/me42th)
 
@@ -8,13 +8,13 @@
 **Código de Acesso:** 995-232-661 
 
 
-### AGENDA
+### **AGENDA**
 
 1. **OBSERVABLES**
 2. **LAZY LOAD**
 3. **PROXIMOS ENCONTROS**
 
-### FACILITADORES
+### **FACILITADORES**
 **DAVID METH**
 >  Formado em Ciência da Computação pela Unifacs, Certificado pela Oracle como Programador Java, Atuou como Professor de Desenvolvimento Web no Senai, Integrante da Equipe Infocraft, Vice Campeão Baiano de Taekwondo e Atualmente Ionic Lover ngDEV. 
 
@@ -22,7 +22,7 @@
 > Formado em Análise e Desenvolvimento de Sistemas pelo UniProjeção, Atualmente Diretor de Desenvolvimento da Myzzy Tecnologia,
 Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Ionic.
 
-### OBSERVABLES
+### **OBSERVABLES**
 > Será apresentado o básico da programação reativa e como programar orientado a fluxos(streams) de dados assíncronos. Assíncrono significa que não se realiza ao mesmo tempo ou no mesmo ritmo de desenvolvimento (em relação a outra coisa). 
 
 **MANIFESTO REATIVO**
@@ -34,7 +34,7 @@ Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Io
 **BEHAVIOR SUBJECT**
 > Emitiremos sinais para as diferentes partes da aplicação após obter um retorno da response **http**, já preparou o adeus ao **promise**? hehe
 
-### LAZY LOAD
+### **LAZY LOAD**
 > Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
 
 **TOPICO**
@@ -43,9 +43,9 @@ Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Io
 **TOPICO**
 > Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Quem num gosta di mé, boa gentis num é. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Sapien in monti palavris qui num significa nadis i pareci latim.
 
-#### PRÓXIMOS ENCONTROS
+### PRÓXIMOS ENCONTROS
 > Algum outro tema interessa a comunidade? Existem litros e mais litros de **HOAX** produzido pelos devs de outras tech, acho que seria interessante tocarmos nessas feridas. A participação de todos é crucial pra dar certo, por favor envie um **FEEDBACK**!
 
 
 
-##### [**ENVIAR FEEDBACK**](https://github.com/me42th/ionic-br/issues/new/choose)
+#### [**ENVIAR FEEDBACK**](https://github.com/me42th/ionic-br/issues/new/choose)
