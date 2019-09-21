@@ -1,4 +1,4 @@
-# HANGOUT IONIC BR: UI STATE & HTTP REQUEST USANDO OBSERVABLES 
+# HANGOUT IONIC BR: OBSERVABLES & LAZYLOAD
 ![IONIC BR](https://img.shields.io/badge/IONIC%20BR-%F0%9F%93%B2-blue) ![DATA](https://img.shields.io/badge/DATA-28%2F09-green)
 ![CUSTO](https://img.shields.io/badge/0800-GRATIS-red)
 [![MATEUS](https://img.shields.io/badge/LAZY-PRGM-yellowgreen)](https://github.com/mateusprgm) [![DAVID](https://img.shields.io/badge/RXJS-me42TH-orange)](https://github.com/me42th)
