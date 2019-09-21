@@ -1,8 +1,8 @@
 ---
 name: CRÍTICAS E SUGESTÕES
 about: CURTIU? DETESTOU? LARGA O DOCE!!
-title: CURTI [ISSO] (OU) DETESTEI [AQUILO]
-labels: ''
+title: ''
+labels: LIKE, UNLIKE
 assignees: ''
 
 ---
