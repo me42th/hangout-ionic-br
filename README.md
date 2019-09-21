@@ -3,7 +3,7 @@
 ![CUSTO](https://img.shields.io/badge/0800-GRATIS-red)
 
 > **Ingresse na Reunião:** https://global.gotomeeting.com/join/995232661 
-> **Código de Acesso:** 995-232-661 
+**Código de Acesso:** 995-232-661 
 
 ## AGENDA
 
