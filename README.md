@@ -16,7 +16,7 @@
 
 ## FACILITADORES
 **DAVID METH**
-> Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
+>  Formado em Ciência da Computação pela Unifacs, Certificado pela Oracle como Programador Java, Atuou como Professor de Desenvolvimento Web no Senai, Integrante da Equipe Infocraft, Vice Campeão Baiano de Taekwondo e Atualmente Ionic Lover ngDev.
 
 **MATEUS PEREIRA**
 > Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
