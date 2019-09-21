@@ -4,7 +4,7 @@
 [![MATEUS](https://img.shields.io/badge/LAZY-PRGM-yellowgreen)](https://github.com/mateusprgm) [![DAVID](https://img.shields.io/badge/RXJS-me42TH-orange)](https://github.com/me42th)
 
 
-**Ingresse na Reunião:** https://global.gotomeeting.com/join/995232661 
+**Link da Reunião:** https://global.gotomeeting.com/join/995232661 
 
 **Código de Acesso:** 995-232-661 
 
