@@ -46,4 +46,4 @@
 
 
 
-#### CURTIU? DETESTOU? [**ENVIAR FEEDBACK**](https://github.com/me42th/ionic-br/issues/new/choose)
+#### CURTIU? DETESTOU? [**ENVIE FEEDBACK:**](https://github.com/me42th/ionic-br/issues/new/choose) POR FAVOR!! NOS AJUDA MUITO...
