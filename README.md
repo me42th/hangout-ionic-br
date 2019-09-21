@@ -34,14 +34,14 @@ Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Io
 **BEHAVIOR SUBJECT**
 > Emitiremos sinais para as diferentes partes da aplicação após obter um retorno da response **http**, já preparou o adeus ao **promise**? hehe
 
-### **LAZY LOAD**
-> Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
+### **LAZY LOADING**
+> Será esclarecido a forma de trabalho do ionic, esclarecendo alguns dos boatos causadores do preconceito contra essa ferramente brilhante.
 
-**TOPICO**
-> Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
+**Modules**
+> Iremos conhecer a arquitetura do ionic no quesito módulos e componentes, tendo como foco a forma que ele trabalha o lazy loading no carregamento das páginas.
 
-**TOPICO**
-> Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Quem num gosta di mé, boa gentis num é. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Sapien in monti palavris qui num significa nadis i pareci latim.
+**Services**
+> Neste tópico será abordado o carregamento sob demanda dos serviços no quesito de massa de dados e as requisições parametrizadas aliadas ao lazy loading.
 
 ### PRÓXIMOS ENCONTROS
 > Algum outro tema interessa a comunidade? Existem litros e mais litros de **HOAX** produzido pelos devs de outras tech, acho que seria interessante tocarmos nessas feridas. A participação de todos é crucial pra dar certo, por favor envie um **FEEDBACK**!
