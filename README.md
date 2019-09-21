@@ -22,7 +22,7 @@
 
 **MATEUS PEREIRA**
 > Formado em Análise e Desenvolvimento de Sistemas pelo UniProjeção, Atualmente Diretor de Desenvolvimento da Myzzy Tecnologia,
-Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular|S2|Ionic.
+Desenvolvedor na Datainfo Soluções em TI, Desenvolvedor/Consultor Angular❤Ionic.
 
 ## OBSERVABLES
 > Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Si num tem leite então bota uma pinga aí cumpadi! Delegadis gente finis, bibendum egestas augue arcu ut est. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
