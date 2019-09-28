@@ -14,7 +14,7 @@
 3. **PROXIMOS ENCONTROS**
 
 ### **FACILITADORES**
-- [**DAVID METH**](https://www.linkedin.com/in)
+- [**DAVID METH**](https://www.linkedin.com/in/me42th/)
 > Formado em Ciência da Computação pela Unifacs, Certificado pela Oracle como Programador Java, Atuou como Professor de Desenvolvimento Web no Senai, Integrante da Equipe Infocraft, Vice Campeão Baiano de Taekwondo e Atualmente Ionic Lover ngDEV. 
 
 - [**ISAC FERREIRA**](https://www.linkedin.com/in)
