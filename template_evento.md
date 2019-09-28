@@ -1,4 +1,4 @@
-## **MEETING >> IONIC BR >> [TÓPICO] & [TÓPICO]**
+## [**MEETING >> IONIC BR >> [TÓPICO] & [TÓPICO]**](README.md)
 ![IONIC BR](https://img.shields.io/badge/IONIC%20BR-%F0%9F%93%B2-blue) ![CUSTO](https://img.shields.io/badge/0800-GRATIS-red)
 
 
