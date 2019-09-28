@@ -1,5 +1,5 @@
 ## [**MEETING >> IONIC BR >> QR CODE & CAPACITOR**](README.md)
-![IONIC BR](https://img.shields.io/badge/IONIC%20BR-%F0%9F%93%B2-blue) ![CUSTO](https://img.shields.io/badge/0800-GRATIS-red)
+![IONIC BR](https://img.shields.io/badge/IONIC%20BR-%F0%9F%93%B2-blue) ![CUSTO](https://img.shields.io/badge/0800-GRATIS-red)  ![DATA](https://img.shields.io/badge/DATA-10%2F10-green)
 
 
 
