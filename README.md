@@ -1,7 +1,6 @@
 ## [**MEETING >> IONIC BR >> QR CODE & CAPACITOR**](README.md)
-![IONIC BR](https://img.shields.io/badge/IONIC%20BR-%F0%9F%93%B2-blue) ![CUSTO](https://img.shields.io/badge/0800-GRATIS-red)  ![DATA](https://img.shields.io/badge/DATA-10%2F10-green)
-
-
+![IONIC BR](https://img.shields.io/badge/IONIC%20BR-%F0%9F%93%B2-blue) ![CUSTO](https://img.shields.io/badge/0800-GRATIS-red)  ![DATA](https://img.shields.io/badge/DATA-10%2F10-green) ![INICIO](https://img.shields.io/badge/INICIO-20:00-orange) ![FIM](https://img.shields.io/badge/FIM-23:00-red) 
+[![ISAC](https://img.shields.io/badge/QRCODE-ISAC-yellowgreen)](https://github.com/thuliumsystems) [![DAVID](https://img.shields.io/badge/CAPACITOR-ME42TH-orange)](https://github.com/me42th)
 
 **Link da Reunião:** https://link.com
 
